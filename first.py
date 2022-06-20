@@ -1,4 +1,4 @@
 print("Hello stranger!")
-print("*camera is zooming closer*")
+print("*camera's zoomin'-in*")
 print("comparing...")
 print("10/10")
